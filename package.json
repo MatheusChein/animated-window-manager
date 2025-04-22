@@ -12,28 +12,28 @@
   "commands": [
     {
       "name": "move-left",
-      "title": "Move Window Left (Animated)",
+      "title": "Animate Window Left",
       "description": "Move your window to the left of your screen with a smooth animation",
       "mode": "no-view",
       "icon": "move-left.png"
     },
     {
       "name": "move-right",
-      "title": "Move Window Right (Animated)",
+      "title": "Animate Window Right",
       "description": "Move your window to the right of your screen with a smooth animation",
       "mode": "no-view",
       "icon": "move-right.png"
     },
     {
       "name": "maximize",
-      "title": "Maximize Window (Animated)",
+      "title": "Animate Window Maximize",
       "description": "Maximize your window to the full size of your screen with a smooth animation",
       "mode": "no-view",
       "icon": "maximize.png"
     },
     {
       "name": "reasonable-size",
-      "title": "Reasonable Size (Animated)",
+      "title": "Animate Reasonable Size",
       "description": "Set your window to a reasonable size with a smooth animation",
       "mode": "no-view",
       "icon": "reasonable-size.png"
